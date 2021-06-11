@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Albo Punk Test</string>
+    <string name="first_brewed">Elaborado desde</string>
+    <string name="abv">Grado de alcohol</string>
+    <string name="ibu">Amargor</string>
+    <string name="ph">PH</string>
+    <string name="brewers_tips">Consejos</string>
+</resources>
